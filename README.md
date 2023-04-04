@@ -12,5 +12,5 @@
     Товары, в которых есть ЦИФРЫ
     Товары, в которых есть ЦИФРА "8"
     
-   Решение тут _[Homework_1](https://github.com/TiRastaMafia/MySql_basic/tree/main/Homework_1)_.
+   Решение тут _[Homework_1](https://github.com/TiRastaMafia/MySql_basic/blob/main/Homework_1/Homework_1.sql)_
 
