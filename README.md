@@ -3,7 +3,11 @@
 
     Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц
     
-    **[Homework_1](https://github.com/TiRastaMafia/MySql_basic/tree/main/Homework_1)**.
+    I love the **[Yandex Cloud](https://cloud.yandex.com)**.
+This is the _[YFM Guide](https://yadocs.tech)_.
+See the section on [`code`](#code).
+Super [^men^](https://en.wikipedia.org/wiki/Major_Grom_(2017_film)).
+
     
     
     1. Создайте таблицу с мобильными телефонами, используя графический интерфейс. Заполните БД данными (поля и наполнение см. в презентации)
