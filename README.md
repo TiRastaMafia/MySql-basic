@@ -25,7 +25,7 @@
        CANCELLED - «Order is cancelled»
     4. Чем NULL отличается от 0?
     
-  Решение тут _[Homework_3](https://github.com/TiRastaMafia/MySql_basic/blob/main/Homework_2/Homework_2.sql)_
+  Решение тут _[Homework_2](https://github.com/TiRastaMafia/MySql_basic/blob/main/Homework_2/Homework_2.sql)_
   
             Урок 3. SQL – выборка данных, сортировка, агрегатные функции
  
